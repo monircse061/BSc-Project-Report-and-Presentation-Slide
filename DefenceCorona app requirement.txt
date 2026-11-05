@@ -1,0 +1,17 @@
+My Project: Android App.
+
+Name: DefenceCorona
+
+My project is based on App. I have made a just prototype app by Android Studio (JAVA). I want to add a basic feature : if anyone opens this app and he coughs it will be count in app.... easily: Cough Sound Counter can you add this basic detector feature? ** i have found this feature in a translator app: Live Transcribe. you can try please. I have found this Live Transcribe app Source Code from github. 
+
+Github Url: https://github.com/google/live-transcribe-speech-engine 
+Google Search URL: https://www.google.com/search?client=firefox-b-e&q=live+transcribe+apk+source+code 
+
+https://www.google.com/search?q=live+transcribe+apk+sensor+source+code&client=firefox-b-e&sxsrf=ALeKk00GOKWmvL8s6jHD0T3aQ2jbrBh4yg%3A1620830438513&ei=5uibYI7pHoio9QPPvasQ&oq=live+transcribe+apk+sensor+source+code&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BwgjELACECdQ2aQOWP23DmDEuw5oAnACeACAAZAbiAHgKpIBCTItNi4yLjktMZgBAKABAaoBB2d3cy13aXrIAQnAAQE&sclient=gws-wiz&ved=0ahUKEwiO9Jz0r8TwAhUIVH0KHc_eCgIQ4dUDCA0&uact=5 
+
+You Can see... You can copy this feature from this source code app and inject into my app.. I think it is called Microphone sensor, because microphone is working here as sensor. I think this sensor might be made by firebase or voice api.. I don't know... I need just only Cough Sound Detect and count in my app. if you open this app and
+
+** cough, it will show a notification on bottom, that you are coughing... my app is not a translator. Be mine, my project is not small. its so big.. Now, just you have to add this cough sound counter. You can copy codes from Live Transcribe app, which i am given up. then I will tell you the full feature.. If you can help me, i will give you my Android Studio (JAVA) source code and explain my full plan. ** in a line : Can you add this cough sound counter feature in my app? you can copy code from another app and inject in my app...
+***
+
+Another part will be user can select multiple symptoms. based on these symptoms this app could generate is he has corona or not. thats all
